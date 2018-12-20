@@ -1,0 +1,22 @@
+
+    <h2>Tunnel list</h2>
+    <ul class="tunnels">
+      <li *ngFor="let tunnel of tunnels" (click)="onSelect(tunnel)"
+        [class.selected]="tunnel === selectedTunnel">
+        <span class="badge">{{tunnel.id}}</span>
+        <span class="badge">{{tunnel.aendNeName}}</span>
+        <span class="badge">{{tunnel.zendNeName}}</span>
+        <span class="badge">{{tunnel.name}}</span>
+      </li>
+    </ul>
+
+  <div>
+    <app-tunnel-detail [tunnel]="selectedTunnel"></app-tunnel-detail>
+  </div>
+
+
+  
+
+
+
+

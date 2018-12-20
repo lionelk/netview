@@ -1,0 +1,64 @@
+
+  <!doctype html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../../../favicon.ico">
+
+    <title>Signin NMS</title>
+
+    <!-- Bootstrap core CSS -->
+    <link ref="stylesheet" type="text/css" href="../../../node_modules/bootstrap/dist/css/bootstrap.min.css">
+
+    <!-- Custom styles for this template -->
+    <script type="text/javascript" src="../../../node_modules/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="../../../node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+
+  </head>
+
+  <body>
+    <div *ngIf="!getUserLoggedIn()">
+     <form class="form-signin text-center" [formGroup]="signinForm">
+      <h1 class="h3 mb-3 font-weight-normal">Please sign in</h1>
+      <div class="form-group">
+      <label for="username" class="sr-only">Username</label>
+      <input type="text" formControlName="username" class="form-control" placeholder="Username" required="" autofocus=""  
+        [ngClass]="{ 'is-invalid': submitted && f.username.errors }">
+        <div *ngIf="submitted && f.username.errors" class="invalid-feedback">
+          <div *ngIf="f.username.errors.required">Username is required</div>
+        </div>
+      </div>
+
+      <div class="form-group">
+        <label for="password" class="sr-only">Password</label>
+        <input type="password" formControlName="password" class="form-control" placeholder="Password" required="" autofocus=""  
+          [ngClass]="{ 'is-invalid': submitted && f.password.errors }">
+          <div *ngIf="submitted && f.password.errors" class="invalid-feedback">
+            <div *ngIf="f.password.errors.required">Password is required</div>
+          </div>
+        </div>
+
+        
+      <div class="form-group">
+        <label for="hostname" class="sr-only">Hostname</label>
+        <input type="text" formControlName="hostname" class="form-control" placeholder="Hostname" required="" autofocus=""  
+          [ngClass]="{ 'is-invalid': submitted && f.hostname.errors }">
+          <div *ngIf="submitted && f.hostname.errors" class="invalid-feedback">
+            <div *ngIf="f.hostname.errors.required">Hostname is required</div>
+          </div>
+        </div>
+
+      <div class="checkbox mb-3">
+        <label>
+          <input type="checkbox" value="remember-me"> Remember me
+        </label>
+      </div>
+      <button class="btn btn-lg btn-primary btn-block" type="submit" (click)="login()">Sign in</button>
+      <p class="mt-5 mb-3 text-muted">© 2018</p>
+     </form>
+    </div>
+    <router-outlet></router-outlet>
+  </body>

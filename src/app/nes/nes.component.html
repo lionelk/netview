@@ -1,0 +1,17 @@
+
+ 
+  <h2>NE list</h2>
+  <ul class="nes">
+    <li *ngFor="let ne of nes" 
+      (click)="onSelect(ne)"
+      (mouseenter) ="onMouseEnter(ne)"  
+      (mouseleave) ="onMouseLeave(ne)"
+      [class.selected]="ne === selectedNe">
+      <span class="badge">{{ne.ipAddress}}</span> {{ne.name}}
+    </li>
+  </ul>
+
+  <div>
+    <app-ne-detail [ne]="selectedNe"></app-ne-detail>
+  </div>
+

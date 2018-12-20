@@ -1,0 +1,18 @@
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 150%;
+  float: top;
+}
+
+.container {
+  float: left;
+  border: 2px solid black;
+  border-radius: 5px;
+  box-sizing: border-box;
+  width: 8%;
+  color: gray;
+  text-align: center;
+  box-shadow: 0 7px 4px #777;
+}
+

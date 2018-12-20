@@ -1,0 +1,13 @@
+#diagramTunnelDiv {
+    float: left;
+    padding-right: 4%;
+    padding-top: 10%;
+    width: 160%;
+    border: 2px solid black;
+    border-radius: 4px;
+    box-sizing: border-box;
+    box-shadow: 0 3px 2px #777;
+    border: solid 1px green; 
+    height: 240pt; 
+    margin: 2px;
+  }

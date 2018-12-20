@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0,0,784,514" xmlns="http://www.w3.org/2000/svg">
+  <g name="1" sensitive="true" class="cst-shelf-view">
+    <g name="theRack" sensitive="true" class="cst-rack cst-selectable" id="/">
+      <g transform="matrix(1,0,0.1,0.7,-48,144)" name="NamePlate" sensitive="true">
+        <g name="NamePlate" sensitive="true">
+          <rect x="0" y="480" rx="2" ry="2" width="764" height="40" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(192,192,192)" class="cst-back" />
+          <text font-family="Segoe UI" x="0" y="0" font-size="20" fill="rgb(0,0,0)" sensitive="true" name="103" text-anchor="middle" transform="rotate(0) translate(382, 508)">XMC25</text>
+          <ellipse cx="734" cy="500" rx="6" ry="6" sensitive="false" name="104" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="Alarm" />
+          <path d="M5 12 L9 12 L9 5 L11 5 L7 1 L3 5 L5 5 Z" transform="translate(744, 493)" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(243,183,13)" data-role="PropagatedAlarm" />
+        </g>
+      </g>
+      <g name="106" sensitive="false">
+        <rect x="0" y="44" rx="0" ry="0" width="764" height="437" sensitive="true" name="wanne" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(192,192,192)" />
+        <rect x="0" y="4" rx="0" ry="0" width="764" height="42" sensitive="true" name="109" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(192,192,192)" />
+        <ellipse cx="13" cy="418" rx="6" ry="6" sensitive="true" name="110" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(127,127,127)" />
+        <ellipse cx="750" cy="418" rx="6" ry="6" sensitive="true" name="111" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(127,127,127)" />
+        <ellipse cx="13" cy="95" rx="6" ry="6" sensitive="true" name="112" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(127,127,127)" />
+        <ellipse cx="750" cy="95" rx="6" ry="6" sensitive="true" name="113" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(127,127,127)" />
+        <ellipse cx="13" cy="22.5" rx="6" ry="6" sensitive="true" name="114" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(127,127,127)" />
+        <ellipse cx="750" cy="22.5" rx="6" ry="6" sensitive="true" name="115" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(127,127,127)" />
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="116" text-anchor="middle" transform="rotate(0) translate(40, 462)">1</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="117" text-anchor="middle" transform="rotate(0) translate(74, 462)">2</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="118" text-anchor="middle" transform="rotate(0) translate(108, 462)">3</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="119" text-anchor="middle" transform="rotate(0) translate(142, 462)">4</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="120" text-anchor="middle" transform="rotate(0) translate(176, 462)">5</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="121" text-anchor="middle" transform="rotate(0) translate(210, 462)">6</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="122" text-anchor="middle" transform="rotate(0) translate(244, 462)">7</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="123" text-anchor="middle" transform="rotate(0) translate(278, 462)">8</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="124" text-anchor="middle" transform="rotate(0) translate(312, 462)">9</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="125" text-anchor="middle" transform="rotate(0) translate(346, 462)">10</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="126" text-anchor="middle" transform="rotate(0) translate(380, 462)">11</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="127" text-anchor="middle" transform="rotate(0) translate(414, 462)">12</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="128" text-anchor="middle" transform="rotate(0) translate(448, 462)">13</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="129" text-anchor="middle" transform="rotate(0) translate(482, 462)">14</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="130" text-anchor="middle" transform="rotate(0) translate(516, 462)">15</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="131" text-anchor="middle" transform="rotate(0) translate(550, 462)">16</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="132" text-anchor="middle" transform="rotate(0) translate(584, 462)">17</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="133" text-anchor="middle" transform="rotate(0) translate(618, 462)">18</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="134" text-anchor="middle" transform="rotate(0) translate(652, 462)">19</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="135" text-anchor="middle" transform="rotate(0) translate(686, 462)">20</text>
+        <text font-family="Segoe UI" x="0" y="0" font-size="12" fill="rgb(0,0,0)" sensitive="true" name="136" text-anchor="middle" transform="rotate(0) translate(720, 462)">21</text>
+        <line x1="142" y1="472" x2="210" y2="472" sensitive="true" name="137" style="stroke-width:1;stroke:rgb(0,0,0);fill:none" />
+        <line x1="142" y1="467" x2="142" y2="472" sensitive="true" name="138" style="stroke-width:1;stroke:rgb(0,0,0);fill:none" />
+        <line x1="210" y1="467" x2="210" y2="472" sensitive="true" name="139" style="stroke-width:1;stroke:rgb(0,0,0);fill:none" />
+        <line x1="380" y1="472" x2="448" y2="472" sensitive="true" name="140" style="stroke-width:1;stroke:rgb(0,0,0);fill:none" />
+        <line x1="380" y1="467" x2="380" y2="472" sensitive="true" name="141" style="stroke-width:1;stroke:rgb(0,0,0);fill:none" />
+        <line x1="448" y1="467" x2="448" y2="472" sensitive="true" name="142" style="stroke-width:1;stroke:rgb(0,0,0);fill:none" />
+        <line x1="618" y1="472" x2="686" y2="472" sensitive="true" name="143" style="stroke-width:1;stroke:rgb(0,0,0);fill:none" />
+        <line x1="618" y1="467" x2="618" y2="472" sensitive="true" name="144" style="stroke-width:1;stroke:rgb(0,0,0);fill:none" />
+        <line x1="686" y1="467" x2="686" y2="472" sensitive="true" name="145" style="stroke-width:1;stroke:rgb(0,0,0);fill:none" />
+      </g>
+      <g name="rackOutline" class="cst-back">
+        <g transform="matrix(1,0,0.1,0.7,-48,144)">
+          <polyline points="0,480 0,520 764,520 764,480" fill="none" xmlns="" />
+        </g>
+        <polyline points="1,481 1,4 764,4 764,481" fill="none" xmlns="" />
+      </g>
+    </g>
+    <g name="unit-2" sensitive="true" class="cst-card cst-selectable" id="/unit-2">
+      <rect x="57.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(223,223,223)" class="cst-back" />
+    </g>
+    <g name="unit-3" sensitive="true" class="cst-card cst-selectable" id="/unit-3">
+      <rect x="91.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(223,223,223)" class="cst-back" />
+    </g>
+    <g name="unit-5" sensitive="true" class="cst-card cst-selectable" id="/unit-5">
+      <rect x="159.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(223,223,223)" class="cst-back" />
+    </g>
+    <g name="unit-9" sensitive="true" class="cst-card cst-selectable" id="/unit-9">
+      <rect x="295.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(223,223,223)" class="cst-back" />
+    </g>
+    <g name="unit-10" sensitive="true" class="cst-card cst-selectable" id="/unit-10">
+      <rect x="329.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(223,223,223)" class="cst-back" />
+    </g>
+    <g name="unit-12" sensitive="true" class="cst-card cst-selectable" id="/unit-12">
+      <rect x="397.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(223,223,223)" class="cst-back" />
+    </g>
+    <g name="unit-14" sensitive="true" class="cst-card cst-selectable" id="/unit-14">
+      <rect x="465.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(223,223,223)" class="cst-back" />
+    </g>
+    <g name="unit-15" sensitive="true" class="cst-card cst-selectable" id="/unit-15">
+      <rect x="499.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(223,223,223)" class="cst-back" />
+    </g>
+    <g name="unit-19" sensitive="true" class="cst-card cst-selectable" id="/unit-19">
+      <rect x="635.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(223,223,223)" class="cst-back" />
+    </g>
+    <g name="unit-20" sensitive="true" class="cst-card cst-selectable" id="/unit-20">
+      <rect x="669.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(223,223,223)" class="cst-back" />
+    </g>
+    <g name="fan" sensitive="true" class="cst-card cst-selectable" id="/fan">
+      <rect x="23.5" y="9" rx="4" ry="4" width="714" height="32" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(211,211,211)" class="cst-back" />
+      <rect x="24.5" y="10" rx="4" ry="4" width="32" height="29.5" sensitive="false" name="196" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <text font-family="Segoe UI" x="0" y="0" font-size="8" fill="rgb(255,255,255)" sensitive="true" name="197" text-anchor="middle" transform="rotate(0) translate(40, 27)">COOL4</text>
+      <rect x="706.5" y="10" rx="4" ry="4" width="30" height="29.5" sensitive="false" name="198" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <ellipse cx="721.5" cy="19.375" rx="5" ry="5" sensitive="false" name="199" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="Alarm" />
+      <path d="M0 7 L4 2 L4 5 L11 5 L11 9 L4 9 L4 12 Z" transform="translate(715, 25)" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="PropagatedAlarm" />
+      <g name="alarm-1" sensitive="true" class="cst-port cst-selectable" id="/fan/alarm-1">
+        <rect x="368.5" y="18" rx="3" ry="3" width="18" height="14" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="alarm-2" sensitive="true" class="cst-port cst-selectable" id="/fan/alarm-2">
+        <rect x="392.5" y="18" rx="3" ry="3" width="18" height="14" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="alarm-3" sensitive="true" class="cst-port cst-selectable" id="/fan/alarm-3">
+        <rect x="416.5" y="18" rx="3" ry="3" width="18" height="14" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="alarm-4" sensitive="true" class="cst-port cst-selectable" id="/fan/alarm-4">
+        <rect x="440.5" y="18" rx="3" ry="3" width="18" height="14" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="alarm-5" sensitive="true" class="cst-port cst-selectable" id="/fan/alarm-5">
+        <rect x="478.5" y="18" rx="3" ry="3" width="18" height="14" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="alarm-6" sensitive="true" class="cst-port cst-selectable" id="/fan/alarm-6">
+        <rect x="502.5" y="18" rx="3" ry="3" width="18" height="14" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="alarm-7" sensitive="true" class="cst-port cst-selectable" id="/fan/alarm-7">
+        <rect x="526.5" y="18" rx="3" ry="3" width="18" height="14" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="alarm-8" sensitive="true" class="cst-port cst-selectable" id="/fan/alarm-8">
+        <rect x="550.5" y="18" rx="3" ry="3" width="18" height="14" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="alarm-9" sensitive="true" class="cst-port cst-selectable" id="/fan/alarm-9">
+        <rect x="593.5" y="18" rx="3" ry="3" width="18" height="14" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="alarm-10" sensitive="true" class="cst-port cst-selectable" id="/fan/alarm-10">
+        <rect x="617.5" y="18" rx="3" ry="3" width="18" height="14" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="alarm-11" sensitive="true" class="cst-port cst-selectable" id="/fan/alarm-11">
+        <rect x="641.5" y="18" rx="3" ry="3" width="18" height="14" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="alarm-12" sensitive="true" class="cst-port cst-selectable" id="/fan/alarm-12">
+        <rect x="665.5" y="18" rx="3" ry="3" width="18" height="14" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+    </g>
+    <g name="unit-1" sensitive="true" class="cst-card cst-selectable" id="/unit-1">
+      <rect x="23.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(211,211,211)" class="cst-back" />
+      <rect x="24.5" y="53" rx="4" ry="4" width="32" height="22" sensitive="false" name="229" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <text font-family="Segoe UI" x="0" y="0" font-size="8" fill="rgb(255,255,255)" sensitive="true" name="230" text-anchor="middle" transform="rotate(0) translate(40, 65)">TUEM1</text>
+      <rect x="24.5" y="424" rx="4" ry="4" width="32" height="22" sensitive="false" name="231" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <ellipse cx="33.5" cy="91" rx="6" ry="6" sensitive="false" name="232" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="Alarm" />
+      <path d="M5 1 L9 1 L9 7 L11 7 L7 12 L3 7 L5 7 Z" transform="translate(43, 85)" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="PropagatedAlarm" />
+      <g name="port-8" sensitive="true" class="cst-port cst-selectable" id="/unit-1/port-8">
+        <rect x="30.5" y="216" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-7" sensitive="true" class="cst-port cst-selectable" id="/unit-1/port-7">
+        <rect x="30.5" y="240" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-6" sensitive="true" class="cst-port cst-selectable" id="/unit-1/port-6">
+        <rect x="30.5" y="264" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-5" sensitive="true" class="cst-port cst-selectable" id="/unit-1/port-5">
+        <rect x="30.5" y="288" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-4" sensitive="true" class="cst-port cst-selectable" id="/unit-1/port-4">
+        <rect x="30.5" y="312" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-3" sensitive="true" class="cst-port cst-selectable" id="/unit-1/port-3">
+        <rect x="30.5" y="336" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-2" sensitive="true" class="cst-port cst-selectable" id="/unit-1/port-2">
+        <rect x="30.5" y="360" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-1" sensitive="true" class="cst-port cst-selectable" id="/unit-1/port-1">
+        <rect x="30.5" y="384" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+    </g>
+    <g name="unit-4" sensitive="true" class="cst-card cst-selectable" id="/unit-4">
+      <rect x="125.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(211,211,211)" class="cst-back" />
+      <rect x="126.5" y="53" rx="4" ry="4" width="32" height="22" sensitive="false" name="262" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <text font-family="Segoe UI" x="0" y="0" font-size="8" fill="rgb(255,255,255)" sensitive="true" name="263" text-anchor="middle" transform="rotate(0) translate(142, 65)">NUSA1</text>
+      <rect x="126.5" y="424" rx="4" ry="4" width="32" height="22" sensitive="false" name="264" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <ellipse cx="135.5" cy="91" rx="6" ry="6" sensitive="false" name="265" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="Alarm" />
+      <path d="M5 1 L9 1 L9 7 L11 7 L7 12 L3 7 L5 7 Z" transform="translate(145, 85)" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="PropagatedAlarm" />
+      <g name="port-8" sensitive="true" class="cst-port cst-selectable" id="/unit-4/port-8">
+        <rect x="132.5" y="216" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-7" sensitive="true" class="cst-port cst-selectable" id="/unit-4/port-7">
+        <rect x="132.5" y="240" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-6" sensitive="true" class="cst-port cst-selectable" id="/unit-4/port-6">
+        <rect x="132.5" y="264" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-5" sensitive="true" class="cst-port cst-selectable" id="/unit-4/port-5">
+        <rect x="132.5" y="288" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-4" sensitive="true" class="cst-port cst-selectable" id="/unit-4/port-4">
+        <rect x="132.5" y="312" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-3" sensitive="true" class="cst-port cst-selectable" id="/unit-4/port-3">
+        <rect x="132.5" y="336" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-2" sensitive="true" class="cst-port cst-selectable" id="/unit-4/port-2">
+        <rect x="132.5" y="360" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-1" sensitive="true" class="cst-port cst-selectable" id="/unit-4/port-1">
+        <rect x="132.5" y="384" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+    </g>
+    <g name="unit-6" sensitive="true" class="cst-card cst-selectable" id="/unit-6">
+      <rect x="193.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(211,211,211)" class="cst-back" />
+      <rect x="194.5" y="53" rx="4" ry="4" width="32" height="22" sensitive="false" name="295" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <text font-family="Segoe UI" x="0" y="0" font-size="8" fill="rgb(255,255,255)" sensitive="true" name="296" text-anchor="middle" transform="rotate(0) translate(210, 65)">ETAG1</text>
+      <rect x="194.5" y="424" rx="4" ry="4" width="32" height="22" sensitive="false" name="297" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <ellipse cx="203.5" cy="91" rx="6" ry="6" sensitive="false" name="298" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="Alarm" />
+      <path d="M5 1 L9 1 L9 7 L11 7 L7 12 L3 7 L5 7 Z" transform="translate(213, 85)" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="PropagatedAlarm" />
+      <g name="port-4" sensitive="true" class="cst-port cst-selectable" id="/unit-6/port-4">
+        <rect x="200.5" y="312" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-3" sensitive="true" class="cst-port cst-selectable" id="/unit-6/port-3">
+        <rect x="200.5" y="336" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-2" sensitive="true" class="cst-port cst-selectable" id="/unit-6/port-2">
+        <rect x="200.5" y="360" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-1" sensitive="true" class="cst-port cst-selectable" id="/unit-6/port-1">
+        <rect x="200.5" y="384" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+    </g>
+    <g name="unit-7" sensitive="true" class="cst-card cst-selectable" id="/unit-7">
+      <rect x="227.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(211,211,211)" class="cst-back" />
+      <rect x="228.5" y="53" rx="4" ry="4" width="32" height="22" sensitive="false" name="328" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <text font-family="Segoe UI" x="0" y="0" font-size="8" fill="rgb(255,255,255)" sensitive="true" name="329" text-anchor="middle" transform="rotate(0) translate(244, 65)">SELI8</text>
+      <rect x="228.5" y="424" rx="4" ry="4" width="32" height="22" sensitive="false" name="330" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <ellipse cx="237.5" cy="91" rx="6" ry="6" sensitive="false" name="331" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="Alarm" />
+      <path d="M5 1 L9 1 L9 7 L11 7 L7 12 L3 7 L5 7 Z" transform="translate(247, 85)" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(243,183,13)" data-role="PropagatedAlarm" />
+      <g name="port-8" sensitive="true" class="cst-port cst-selectable" id="/unit-7/port-8">
+        <rect x="234.5" y="216" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-7" sensitive="true" class="cst-port cst-selectable" id="/unit-7/port-7">
+        <rect x="234.5" y="240" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-6" sensitive="true" class="cst-port cst-selectable" id="/unit-7/port-6">
+        <rect x="234.5" y="264" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-5" sensitive="true" class="cst-port cst-selectable" id="/unit-7/port-5">
+        <rect x="234.5" y="288" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-4" sensitive="true" class="cst-port cst-selectable" id="/unit-7/port-4">
+        <rect x="234.5" y="312" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(243,183,13)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-3" sensitive="true" class="cst-port cst-selectable" id="/unit-7/port-3">
+        <rect x="234.5" y="336" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-2" sensitive="true" class="cst-port cst-selectable" id="/unit-7/port-2">
+        <rect x="234.5" y="360" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-1" sensitive="true" class="cst-port cst-selectable" id="/unit-7/port-1">
+        <rect x="234.5" y="384" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+    </g>
+    <g name="unit-8" sensitive="true" class="cst-card cst-selectable" id="/unit-8">
+      <rect x="261.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(211,211,211)" class="cst-back" />
+      <rect x="262.5" y="53" rx="4" ry="4" width="32" height="22" sensitive="false" name="361" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <text font-family="Segoe UI" x="0" y="0" font-size="8" fill="rgb(255,255,255)" sensitive="true" name="362" text-anchor="middle" transform="rotate(0) translate(278, 65)">SDSL8</text>
+      <rect x="262.5" y="424" rx="4" ry="4" width="32" height="22" sensitive="false" name="363" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <ellipse cx="271.5" cy="91" rx="6" ry="6" sensitive="false" name="364" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="Alarm" />
+      <path d="M5 1 L9 1 L9 7 L11 7 L7 12 L3 7 L5 7 Z" transform="translate(281, 85)" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="PropagatedAlarm" />
+      <g name="port-8" sensitive="true" class="cst-port cst-selectable" id="/unit-8/port-8">
+        <rect x="268.5" y="216" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-7" sensitive="true" class="cst-port cst-selectable" id="/unit-8/port-7">
+        <rect x="268.5" y="240" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-6" sensitive="true" class="cst-port cst-selectable" id="/unit-8/port-6">
+        <rect x="268.5" y="264" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-5" sensitive="true" class="cst-port cst-selectable" id="/unit-8/port-5">
+        <rect x="268.5" y="288" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-4" sensitive="true" class="cst-port cst-selectable" id="/unit-8/port-4">
+        <rect x="268.5" y="312" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-3" sensitive="true" class="cst-port cst-selectable" id="/unit-8/port-3">
+        <rect x="268.5" y="336" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-2" sensitive="true" class="cst-port cst-selectable" id="/unit-8/port-2">
+        <rect x="268.5" y="360" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-1" sensitive="true" class="cst-port cst-selectable" id="/unit-8/port-1">
+        <rect x="268.5" y="384" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+    </g>
+    <g name="unit-11" sensitive="true" class="cst-card cst-selectable" id="/unit-11">
+      <rect x="363.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(211,211,211)" class="cst-back" />
+      <rect x="364.5" y="53" rx="4" ry="4" width="32" height="22" sensitive="false" name="394" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <text font-family="Segoe UI" x="0" y="0" font-size="8" fill="rgb(255,255,255)" sensitive="true" name="395" text-anchor="middle" transform="rotate(0) translate(380, 65)">COGE5</text>
+      <rect x="364.5" y="424" rx="4" ry="4" width="32" height="22" sensitive="false" name="396" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <ellipse cx="373.5" cy="91" rx="6" ry="6" sensitive="false" name="397" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="Alarm" />
+      <path d="M5 1 L9 1 L9 7 L11 7 L7 12 L3 7 L5 7 Z" transform="translate(383, 85)" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="PropagatedAlarm" />
+      <ellipse cx="380.5" cy="435" rx="6" ry="6" sensitive="false" name="399" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(128,255,128)" />
+      <g name="port-5" sensitive="true" class="cst-port cst-selectable" id="/unit-11/port-5">
+        <rect x="370.5" y="288" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-4" sensitive="true" class="cst-port cst-selectable" id="/unit-11/port-4">
+        <rect x="370.5" y="312" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-3" sensitive="true" class="cst-port cst-selectable" id="/unit-11/port-3">
+        <rect x="370.5" y="336" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-2" sensitive="true" class="cst-port cst-selectable" id="/unit-11/port-2">
+        <rect x="370.5" y="360" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-1" sensitive="true" class="cst-port cst-selectable" id="/unit-11/port-1">
+        <rect x="370.5" y="384" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+    </g>
+    <g name="unit-13" sensitive="true" class="cst-card cst-selectable" id="/unit-13">
+      <rect x="431.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(211,211,211)" class="cst-back" />
+      <rect x="432.5" y="53" rx="4" ry="4" width="32" height="22" sensitive="false" name="427" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <text font-family="Segoe UI" x="0" y="0" font-size="8" fill="rgb(255,255,255)" sensitive="true" name="428" text-anchor="middle" transform="rotate(0) translate(448, 65)">COGE5</text>
+      <rect x="432.5" y="424" rx="4" ry="4" width="32" height="22" sensitive="false" name="429" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <ellipse cx="441.5" cy="91" rx="6" ry="6" sensitive="false" name="430" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="Alarm" />
+      <path d="M5 1 L9 1 L9 7 L11 7 L7 12 L3 7 L5 7 Z" transform="translate(451, 85)" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="PropagatedAlarm" />
+      <ellipse cx="448.5" cy="435" rx="6" ry="6" sensitive="false" name="432" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,200)" />
+      <g name="port-5" sensitive="true" class="cst-port cst-selectable" id="/unit-13/port-5">
+        <rect x="438.5" y="288" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-4" sensitive="true" class="cst-port cst-selectable" id="/unit-13/port-4">
+        <rect x="438.5" y="312" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-3" sensitive="true" class="cst-port cst-selectable" id="/unit-13/port-3">
+        <rect x="438.5" y="336" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-2" sensitive="true" class="cst-port cst-selectable" id="/unit-13/port-2">
+        <rect x="438.5" y="360" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-1" sensitive="true" class="cst-port cst-selectable" id="/unit-13/port-1">
+        <rect x="438.5" y="384" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+    </g>
+    <g name="unit-16" sensitive="true" class="cst-card cst-selectable" id="/unit-16">
+      <rect x="533.5" y="52" rx="4" ry="4" width="68" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(211,211,211)" class="cst-back" />
+      <rect x="534.5" y="53" rx="4" ry="4" width="66" height="22" sensitive="false" name="460" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <text font-family="Segoe UI" x="0" y="0" font-size="8" fill="rgb(255,255,255)" sensitive="true" name="461" text-anchor="middle" transform="rotate(0) translate(567, 65)">ETE24</text>
+      <rect x="534.5" y="424" rx="4" ry="4" width="66" height="22" sensitive="false" name="462" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <ellipse cx="552" cy="91" rx="6" ry="6" sensitive="false" name="463" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="Alarm" />
+      <path d="M5 1 L9 1 L9 7 L11 7 L7 12 L3 7 L5 7 Z" transform="translate(570, 85)" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="PropagatedAlarm" />
+      <g name="port-23" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-23">
+        <rect x="541.5" y="108" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-21" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-21">
+        <rect x="541.5" y="132" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-19" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-19">
+        <rect x="541.5" y="156" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-17" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-17">
+        <rect x="541.5" y="180" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-15" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-15">
+        <rect x="541.5" y="210" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-13" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-13">
+        <rect x="541.5" y="234" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-11" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-11">
+        <rect x="541.5" y="258" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-9" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-9">
+        <rect x="541.5" y="282" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-7" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-7">
+        <rect x="541.5" y="312" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-5" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-5">
+        <rect x="541.5" y="336" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-3" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-3">
+        <rect x="541.5" y="360" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-1" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-1">
+        <rect x="541.5" y="384" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-24" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-24">
+        <rect x="572.5" y="108" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-22" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-22">
+        <rect x="572.5" y="132" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-20" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-20">
+        <rect x="572.5" y="156" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-18" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-18">
+        <rect x="572.5" y="180" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-16" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-16">
+        <rect x="572.5" y="210" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-14" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-14">
+        <rect x="572.5" y="234" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-12" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-12">
+        <rect x="572.5" y="258" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-10" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-10">
+        <rect x="572.5" y="282" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-8" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-8">
+        <rect x="572.5" y="312" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-6" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-6">
+        <rect x="572.5" y="336" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-4" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-4">
+        <rect x="572.5" y="360" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-2" sensitive="true" class="cst-port cst-selectable" id="/unit-16/port-2">
+        <rect x="572.5" y="384" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+    </g>
+    <g name="unit-18" sensitive="true" class="cst-card cst-selectable" id="/unit-18">
+      <rect x="601.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(211,211,211)" class="cst-back" />
+      <rect x="602.5" y="53" rx="4" ry="4" width="32" height="22" sensitive="false" name="517" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <text font-family="Segoe UI" x="0" y="0" font-size="8" fill="rgb(255,255,255)" sensitive="true" name="518" text-anchor="middle" transform="rotate(0) translate(618, 65)">NUSA1</text>
+      <rect x="602.5" y="424" rx="4" ry="4" width="32" height="22" sensitive="false" name="519" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <ellipse cx="611.5" cy="91" rx="6" ry="6" sensitive="false" name="520" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="Alarm" />
+      <path d="M5 1 L9 1 L9 7 L11 7 L7 12 L3 7 L5 7 Z" transform="translate(621, 85)" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="PropagatedAlarm" />
+      <g name="port-8" sensitive="true" class="cst-port cst-selectable" id="/unit-18/port-8">
+        <rect x="608.5" y="216" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-7" sensitive="true" class="cst-port cst-selectable" id="/unit-18/port-7">
+        <rect x="608.5" y="240" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-6" sensitive="true" class="cst-port cst-selectable" id="/unit-18/port-6">
+        <rect x="608.5" y="264" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-5" sensitive="true" class="cst-port cst-selectable" id="/unit-18/port-5">
+        <rect x="608.5" y="288" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-4" sensitive="true" class="cst-port cst-selectable" id="/unit-18/port-4">
+        <rect x="608.5" y="312" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-3" sensitive="true" class="cst-port cst-selectable" id="/unit-18/port-3">
+        <rect x="608.5" y="336" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-2" sensitive="true" class="cst-port cst-selectable" id="/unit-18/port-2">
+        <rect x="608.5" y="360" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-1" sensitive="true" class="cst-port cst-selectable" id="/unit-18/port-1">
+        <rect x="608.5" y="384" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+    </g>
+    <g name="unit-21" sensitive="true" class="cst-card cst-selectable" id="/unit-21">
+      <rect x="703.5" y="52" rx="4" ry="4" width="34" height="395" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(211,211,211)" class="cst-back" />
+      <rect x="704.5" y="53" rx="4" ry="4" width="32" height="22" sensitive="false" name="550" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <text font-family="Segoe UI" x="0" y="0" font-size="8" fill="rgb(255,255,255)" sensitive="true" name="551" text-anchor="middle" transform="rotate(0) translate(720, 65)">TUDA1</text>
+      <rect x="704.5" y="424" rx="4" ry="4" width="32" height="22" sensitive="false" name="552" style="stroke-width:0;stroke:rgb(0,0,0);fill:rgb(0,0,0)" />
+      <ellipse cx="713.5" cy="91" rx="6" ry="6" sensitive="false" name="553" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="Alarm" />
+      <path d="M5 1 L9 1 L9 7 L11 7 L7 12 L3 7 L5 7 Z" transform="translate(723, 85)" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(126,204,120)" data-role="PropagatedAlarm" />
+      <g name="port-5" sensitive="true" class="cst-port cst-selectable" id="/unit-21/port-5">
+        <rect x="710.5" y="288" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-4" sensitive="true" class="cst-port cst-selectable" id="/unit-21/port-4">
+        <rect x="710.5" y="312" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-3" sensitive="true" class="cst-port cst-selectable" id="/unit-21/port-3">
+        <rect x="710.5" y="336" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-2" sensitive="true" class="cst-port cst-selectable" id="/unit-21/port-2">
+        <rect x="710.5" y="360" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+      <g name="port-1" sensitive="true" class="cst-port cst-selectable" id="/unit-21/port-1">
+        <rect x="710.5" y="384" rx="3" ry="3" width="20" height="20" sensitive="true" name="back" style="stroke-width:1;stroke:rgb(0,0,0);fill:rgb(255,255,255)" class="cst-back" data-role="Alarm" />
+      </g>
+    </g>
+  </g>
+</svg>

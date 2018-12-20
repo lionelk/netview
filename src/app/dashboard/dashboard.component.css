@@ -1,0 +1,87 @@
+    /* DashboardComponent's private CSS styles */
+    [class*='col-'] {
+      float: left;
+      padding-right: 0px;
+      padding-bottom: 0px;
+    }
+    [class*='col-']:last-of-type {
+      padding-right: 0;
+    }
+    
+
+    nav-link {
+      text-decoration: none;
+      font-size: 8pt;
+    }
+
+   
+
+    *, *:after, *:before {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+    h3 {
+      text-align: left; margin-bottom: 0;
+    }
+    h4 {
+      position: relative;
+    }
+    .grid {
+      margin: 0;
+    }
+    .col-1-4 {
+      width: 25%;
+    }
+    .module {
+      padding: 0px;
+      text-align: left;
+      color: #eee;
+      max-height: 120px;
+      min-width: 120px;
+      background-color: #607d8b;
+      border-radius: 2px;
+    }
+    .module:hover {
+      background-color: #eee;
+      cursor: pointer;
+      color: #607d8b;
+    }
+    .grid-pad {
+      padding: 10px 0;
+    }
+    .grid-pad > [class*='col-']:last-of-type {
+      padding-right: 0px;
+    }
+    @media (max-width: 600px) {
+      .module {
+        font-size: 10px;
+        max-height: 75px; }
+    }
+    @media (max-width: 1024px) {
+      .grid {
+        margin: 0;
+      }
+      .module {
+        min-width: 60px;
+      }
+    }
+    
+
+.section {
+  float: left;
+}
+
+
+#diagramNetworkDiv {
+  float: right;
+  padding-right: 3%;
+  width: 70%;
+  border: 2px solid black;
+  border-radius: 4px;
+  box-sizing: border-box;
+  box-shadow: 0 7px 4px #777;
+  border: solid 1px blue; 
+  height:500px; 
+  margin: 10px;
+}

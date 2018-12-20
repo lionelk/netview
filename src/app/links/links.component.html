@@ -1,0 +1,11 @@
+
+ 
+  <h2>Links list</h2>
+  <ul class="links">
+    <li *ngFor="let links of links" (click)="onSelect(link)"
+      [class.selected]="link === selectedLink" (click)="onSelect(link)">
+      <span class="badge">{{link.id}}</span> {{link.name}}
+    </li>
+  </ul>
+
+

@@ -1,0 +1,18 @@
+<div id="search-component">
+  <h4 #tunnelSearchTitle >Tunnel Search</h4>
+  
+  <input #searchBox id="search-box" (keyup)="search(searchBox.value)"/>
+ 
+  <ul class="search-result">
+    <li *ngFor="let tunnel of tunnels$ | async" >
+      <a routerLink="/detail/{{tunnel.id}}">
+        {{tunnel.name}}
+      </a>
+    </li>
+  </ul>
+</div>
+
+<!--
+<fa-icon icon="fas faSearch"></fa-icon>
+-->
+

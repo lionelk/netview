@@ -1,0 +1,8 @@
+export class lspNode {
+
+    
+}
+
+export class tunnelLSP {
+
+}

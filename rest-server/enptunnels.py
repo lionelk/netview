@@ -1,5 +1,22 @@
 tunnels = [
 {
+    "id": 36,
+    "name": "tunnel_1234",
+    "description": "",
+    "classType": "CT0",
+    "encrypted": False,
+    "protection": True,
+    "totalBW": 0,
+    "reservedBW": 0,
+    "usedBW": 0,
+    "tunnelIdString": "10::256::3::256::2",
+    "status": "DEPLOY_VALID",
+    "aendNeName": "Node1",
+    "aendNeId": 1,
+    "zendNeId": 4,
+    "zendNeName": "Node4"
+  },
+{
     "id": 37,
     "name": "tunnel_1513",
     "description": "",
@@ -46,7 +63,24 @@ tunnels = [
     "tunnelIdString": "12::256::1::256::6",
     "status": "DEPLOY_VALID",
     "aendNeName": "Node1",
-    "aendNeId": 7,
+    "aendNeId": 1,
+    "zendNeId": 6,
+    "zendNeName": "Node6"
+  },
+    {
+    "id": 40,
+    "name": "tunnel_2540",
+    "description": "",
+    "classType": "CT0",
+    "encrypted": False,
+    "protection": True,
+    "totalBW": 0,
+    "reservedBW": 0,
+    "usedBW": 0,
+    "tunnelIdString": "12::256::1::256::6",
+    "status": "DEPLOY_VALID",
+    "aendNeName": "Node1",
+    "aendNeId": 1,
     "zendNeId": 6,
     "zendNeName": "Node6"
   }

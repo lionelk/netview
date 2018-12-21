@@ -92,13 +92,9 @@ export class DashboardComponent implements OnInit {
     }
 
   public getNeName(neid: number): string {
-    console.log('dashboard getNeName for ' + neid);
     let neName: string;
-
     this.nes.forEach( function(ne) {
-      console.log('dashboard getNeName test for-lopp ' + ne.neId + ' name = ' + ne.name);
       if (neid === ne.neId) {
-        console.log('dashboard FOUND getNeName : ' + ne.name);
         neName = ne.name;
         return;
       }

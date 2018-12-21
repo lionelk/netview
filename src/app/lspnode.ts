@@ -1,11 +1,14 @@
 
+export class Label {
+    labelIn: number;
+    labelOut: number;
+}
+
 export class Lspnode {
     neId: number;
     position: number;
     role: string;
-    fwlabelin: number;
-    fwlabelout: number;
-    revlabelin: number;
-    revlabelout: number;
+    fwPath: Label;
+    revPath: Label;
 }
 

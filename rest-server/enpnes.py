@@ -1,6 +1,6 @@
 enpnes = [
 {
-    "neId": 7,
+    "neId": 1,
     "name": "Node1",
     "ipAddress": "12.0.120.1",
     "neType": "MILEGATE_2510",
@@ -82,6 +82,36 @@ enpnes = [
     "nodeId": "6",
     "globalId": "256",
     "description": "Node6",
+    "nodeCapabilities": {
+      "cosVersion": 2,
+      "supportsClassType": True,
+      "supportsServiceProfile": True
+    },
+	"svg" : ""
+  },
+   {
+    "neId": 7,
+    "name": "Node7",
+    "ipAddress": "12.0.120.7",
+    "neType": "XMC_25",
+    "nodeId": "7",
+    "globalId": "256",
+    "description": "Node7",
+    "nodeCapabilities": {
+      "cosVersion": 2,
+      "supportsClassType": True,
+      "supportsServiceProfile": True,
+    },
+	"svg" : ""
+  },
+   {
+    "neId": 8,
+    "name": "Node8",
+    "ipAddress": "12.0.120.8",
+    "neType": "XMC_25",
+    "nodeId": "8",
+    "globalId": "256",
+    "description": "Node8",
     "nodeCapabilities": {
       "cosVersion": 2,
       "supportsClassType": True,

@@ -81,7 +81,6 @@ export class TunnelViewComponent implements OnInit, OnChanges {
     text.bind(new go.Binding('text', 'toLabel'));
     linkTemplate.add(text);
 
-   
 
     this.diagram.linkTemplate = linkTemplate;
     this.diagram.nodeTemplate = nodeTemplate;
@@ -112,7 +111,7 @@ export class TunnelViewComponent implements OnInit, OnChanges {
   getTunnelWorkingLSP(): void {
     this.tunnelService.getTunnelWorkingLSP(this.tunnel.id)
         .subscribe(lsp => { this.workingLSP = lsp;
-                            this.drawWorkingLsp(lsp);
+                            this.drawLsp(lsp);
                             if (this.tunnel.protection) {
                               this.getTunnelProtectingLSP();
                             }
@@ -122,11 +121,11 @@ export class TunnelViewComponent implements OnInit, OnChanges {
   getTunnelProtectingLSP(): void {
     this.tunnelService.getTunnelProtectingLSP(this.tunnel.id)
         .subscribe(lsp => { this.protectingLSP = lsp;
-                            this.drawWorkingLsp(lsp);
+                            this.drawLsp(lsp);
                           } );
   }
 
-  public drawWorkingLsp(lsp: Lsp): void {
+  public drawLsp(lsp: Lsp): void {
     console.log('drawWorkingLsp start ' );
     this.diagram.startTransaction('make new node');
     let prevNode: Lspnode;
@@ -136,9 +135,8 @@ export class TunnelViewComponent implements OnInit, OnChanges {
       console.log('adding node: ' + node.position);
       let nodeName: string;
       nodeName = this.dashboard.getNeName(node.neId);
-      if (lsp.lspId === 1 || node.role === 'Transit') {
-        // do not draw HeadTail from Protecting Lsp
-        // already inserted from working path
+      if (this.diagram.model.findNodeDataForKey(nodeName) == null) {
+        // do not add nodes already in..
         this.diagram.model.addNodeData({ key: nodeName, color: 'lightblue' });
       }
       if (prevNode) {

@@ -59,17 +59,16 @@ export class SigninComponent implements OnInit {
   // reset login status
   this.authenticationService.logout();
   this.loginService.setLoggedInUser(false, '', '');
-  
+
   // get return url from route parameters or default to '/'
-  //this.returnUrl = this.route.snapshot.queryParams['returnUrl'] || '/';
+  // this.returnUrl = this.route.snapshot.queryParams['returnUrl'] || '/';
 
   }
 
   // convenience getter for easy access to form fields
   get f() { return this.signinForm.controls; }
 
-  public getUserLoggedIn(): boolean
-  {
+  public getUserLoggedIn(): boolean {
     return this.loginService.getUserLoggedIn();
   }
 

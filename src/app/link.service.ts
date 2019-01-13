@@ -3,7 +3,7 @@ import { Observable, of } from 'rxjs';
 
 import { Link } from './link';
 import { HttpClient } from '@angular/common/http';
-import { catchError, map, tap } from 'rxjs/operators';
+import { catchError } from 'rxjs/operators';
 import { MessageService } from './message.service';
 
 @Injectable({

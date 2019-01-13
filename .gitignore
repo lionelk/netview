@@ -37,3 +37,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+new_dashboard_1.html
+old_dashboard.css
+old_dashboard.html

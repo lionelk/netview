@@ -20,6 +20,8 @@ import { AuthenticationService } from './services/authentication.service';
 import { LoginService } from './login.service';
 import { TunnelViewComponent } from './tunnel-view/tunnel-view.component';
 import { NetworkViewComponent } from './network-view/network-view.component';
+import { NetworkService } from './services/network.service';
+import { HttpErrorHandler } from './services/http-error-handler.service';
 
 @NgModule({
   declarations: [
@@ -43,7 +45,7 @@ import { NetworkViewComponent } from './network-view/network-view.component';
     ReactiveFormsModule,
     MaterialModule
   ],
-  providers: [ AlertService, AuthenticationService, LoginService ],
+  providers: [ AlertService, AuthenticationService, LoginService, NetworkService, HttpErrorHandler ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

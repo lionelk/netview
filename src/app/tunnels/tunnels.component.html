@@ -1,14 +1,24 @@
 
-    <h2>Tunnel list</h2>
-    <ul class="tunnels">
-      <li *ngFor="let tunnel of tunnels" (click)="onSelect(tunnel)"
+  <h2>Tunnel list</h2>
+  <div class="dash-table-container">
+    <table class="table table-hover">
+    <thead>
+      <th>ID</th>
+      <th>AEND</th>
+      <th>ZEND</th>
+      <th>NAME</th>
+    </thead>  
+    <tbody>
+      <tr *ngFor="let tunnel of tunnels" (click)="onSelect(tunnel)"
         [class.selected]="tunnel === selectedTunnel">
-        <span class="badge">{{tunnel.id}}</span>
-        <span class="badge">{{tunnel.aendNeName}}</span>
-        <span class="badge">{{tunnel.zendNeName}}</span>
-        <span class="badge">{{tunnel.name}}</span>
-      </li>
-    </ul>
+        <td><span class="badge">{{tunnel.id}}</span></td>
+        <td><span class="badge">{{tunnel.aendNeName}}</span></td>
+        <td><span class="badge">{{tunnel.zendNeName}}</span></td>
+        <td><span class="badge">{{tunnel.name}}</span></td>
+    </tr>
+  </tbody>
+</table>
+</div>
 
   <div>
     <app-tunnel-detail [tunnel]="selectedTunnel"></app-tunnel-detail>

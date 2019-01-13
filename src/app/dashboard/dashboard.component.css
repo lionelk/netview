@@ -15,7 +15,6 @@
     }
 
    
-
     *, *:after, *:before {
       -webkit-box-sizing: border-box;
       -moz-box-sizing: border-box;
@@ -72,10 +71,9 @@
   float: left;
 }
 
-
 #diagramNetworkDiv {
   float: right;
-  padding-right: 3%;
+  padding-top: 3%;
   width: 70%;
   border: 2px solid black;
   border-radius: 4px;
@@ -83,5 +81,9 @@
   box-shadow: 0 7px 4px #777;
   border: solid 1px blue; 
   height:500px; 
-  margin: 10px;
+  margin: 1px;
+}
+
+#saveButton {
+  float: right;
 }

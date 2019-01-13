@@ -7,6 +7,7 @@ import { LinkService } from '../link.service';
 import { Tunnel } from '../tunnel';
 import { TunnelService } from '../tunnel.service';
 import { LoginService } from '../login.service';
+import { NetworkService } from '../services/network.service';
 import * as go from '../../../node_modules/gojs';
 
 @Component({
@@ -27,7 +28,8 @@ export class DashboardComponent implements OnInit {
   constructor(private neService: NeService,
     private linkService: LinkService,
     private tunnelService: TunnelService,
-    private loginService: LoginService) { }
+    private loginService: LoginService,
+    private networkService: NetworkService) { }
 
   ngOnInit() {
     console.log('dashboard ngoninit start');
@@ -152,5 +154,17 @@ export class DashboardComponent implements OnInit {
     this.diagram.model.setDataProperty(node, 'thick', 2);
     this.diagram.model.setDataProperty(node, 'isHighlighted', highlight);
     this.diagram.commitTransaction('highlight ne');
+  }
+
+  public save() {
+    console.log('dashboard save');
+    const modelText = this.diagram.model.toJson();
+    this.diagram.isModified = false;
+    this.networkService.saveNetworkModel(modelText);
+  }
+
+  public load() {
+
+    // this.diagram.model = go.Model.fromJson(document.getElementById("mySavedModel").value);
   }
 }
